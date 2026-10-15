@@ -1,0 +1,9 @@
+﻿Catégorie;Niveau;Libellé;Proposition juste;Proposition fausse 1;Proposition fausse 2;Proposition fausse 3;Proposition fausse 4;Feedback
+Les villes de France;1;Quelle est la préfecture de l'Aveyron ?;Rodez;Millau;Villefranche-de-Rouergue;Espalion;;Rodez est la préfecture, Millau et Villefranche sont des sous-préfectures.
+Les villes de France;2;Quelle ville est traversée par la Garonne ?;Toulouse;Montpellier;Lyon;;;
+Les villes de France;3;Quelle ville est surnommée « la ville rose » ?;Toulouse;Albi;Carcassonne;Nîmes;Perpignan;Ses bâtiments en brique foraine lui donnent cette couleur.
+Tennis;1;Sur quelle surface se joue Roland-Garros ?;Terre battue;Gazon;Dur;;;
+Tennis;2;Combien de points faut-il au minimum pour gagner un jeu ?;4;3;5;6;;15, 30, 40, jeu : 4 points si l'adversaire en a au plus 2.
+Cinéma;2;Qui a réalisé « Le Fabuleux Destin d'Amélie Poulain » ?;Jean-Pierre Jeunet;Luc Besson;Jacques Audiard;;;
+Bases du langage Java;2;"Que vaut ""abc"".length() ?";3;2;4;"Erreur de compilation";;length() renvoie le nombre de caractères de la chaîne.
+Bases du langage Java;1;Quel mot-clé crée un objet ?;new;create;make;object;;

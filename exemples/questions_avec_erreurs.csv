@@ -1,0 +1,9 @@
+﻿Catégorie;Niveau;Libellé;Proposition juste;Proposition fausse 1;Proposition fausse 2;Proposition fausse 3;Proposition fausse 4;Feedback
+Géographie;1;Quel est le plus long fleuve de France ?;La Loire;La Seine;Le Rhône;;;
+Géographie;quatre;Quelle est la capitale de l'Espagne ?;Madrid;Barcelone;;;;
+Géographie;5;Quelle est la capitale de l'Italie ?;Rome;Milan;;;;
+Géographie;2;Quelle mer borde Marseille ?;La Méditerranée
+;1;Question sans catégorie ?;Oui;Non;;;;
+Géographie;1;Quel est le plus long fleuve de France ?;La Loire;Le Rhône;La Seine;;;Doublon : mêmes propositions dans un autre ordre
+Géographie;2;Combien de départements en Occitanie ?;13;12;13;;;
+Géographie;3;Quel sommet culmine dans les Pyrénées ?;L'Aneto;Le Vignemale;Le Canigou;Le Pic du Midi;Le Balaïtous;Le Mont Perdu;Trop de colonnes

@@ -1,0 +1,7 @@
+target/
+.idea/
+*.iml
+.vscode/
+quiz_data.ser
+quiz_data.ser.tmp
+quiz_data.ser.illisible-*
